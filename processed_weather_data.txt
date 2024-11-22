@@ -1,0 +1,5 @@
+Location: Karachi
+Temperature (C): 26.20
+Humidity: 58%
+Condition: Partly cloudy
+Timestamp: 2024-11-22 19:34
